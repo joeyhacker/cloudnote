@@ -1,4 +1,1 @@
-cloudnote
-=========
-
-cloudnote
+a notepad running on cloudfactory.
